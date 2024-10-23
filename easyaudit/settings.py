@@ -49,7 +49,7 @@ UNREGISTERED_CLASSES = [
     RequestEvent,
     Migration,
     Session,
-    Permission,
+    #Permission,
     ContentType,
     MigrationRecorder.Migration,
 ]
